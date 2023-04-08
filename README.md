@@ -2,7 +2,6 @@
 Sales Analysis Report of a fast growing restaurant chain 'The Pizza Lounge' build using **Power BI**
 
 ## Problem Statement:
----
 You are heading the team of data visualization experts and the manager of the rapidly expanding restaurant chain ‘The Pizza Lounge’ has approached you with a problem. The restaurant chain has provided you with a large pool of data and wants to understand the customer behavior, that will help the organization make better data driven business decisions in its plans for future expansion with increased revenues. 
 
 The data shared contains the past year’s  order details, date and time of the order placed, and the quantity ordered for each pizza of the same type and size. Furthermore, in a separate data source, the details of Pizzas such as type and category of pizza, size (small, medium, large), name,  ingredients and the price of each Pizza in USD is captured too. Using the Power BI tool, import the data from the different sources and create an appropriate data model. Clean, transform and add new variables wherever necessary. Additionally analyze and visualize the data and build a report to capture the trends in sales, do a customer segmentation and carry out a detailed financial analysis reporting last year sales, profits, etc. Build a dashboard and ensure the recommended analysis is captured as a part of the task.
